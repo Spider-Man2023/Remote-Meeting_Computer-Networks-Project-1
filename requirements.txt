@@ -1,2 +1,6 @@
-aiosip
-aiortsp
+opencv-python
+pyaudio
+pyautogui
+numpy
+Pillow
+git+https://github.com/Eyepea/aiosip.git
